@@ -2,4 +2,4 @@ from django.http import HttpResponse
 
 
 def home(request):
-    return HttpResponse('Doneeeee')
+    return HttpResponse('Finally')
